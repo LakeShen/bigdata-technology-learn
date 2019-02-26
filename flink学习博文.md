@@ -16,7 +16,7 @@
 7. [Flink CheckPoint协调器](https://www.cnblogs.com/zaizhoumo/p/9236491.html)
 ### Flink
 1. [Flink 2018 Flink Forward](https://github.com/flink-china/flink-forward-china-2018)
-2. [Flink 应用升级和状态](https://ci.apache.org/pr[Flink CheckPoint协调器](https://www.cnblogs.com/zaizhoumo/p/9236491.html)ojects/flink/flink-docs-stable/ops/upgrading.html)
+2. [Flink 应用升级和状态](https://ci.apache.org/projects/flink/flink-docs-stable/ops/upgrading.html)
 3. [Candy-lamport算法](https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Fchandy.pdf)
 4. [Flink SlotSharingGroup ](https://cloud.tencent.com/developer/article/1172583)
 5. [Flink Job解析](https://blog.csdn.net/qq_21653785/article/details/79510140)
