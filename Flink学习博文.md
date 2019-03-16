@@ -14,9 +14,12 @@
 5. [Data Streaming Fault Tolerance](https://ci.apache.org/projects/flink/flink-docs-stable/internals/stream_checkpointing.html)
 6. [Flink增量checkpoint](https://flink.apache.org/features/2018/01/30/incremental-checkpointing.html)
 7. [Flink CheckPoint协调器](https://www.cnblogs.com/zaizhoumo/p/9236491.html)
+8. [Candy-lamport算法](https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Fchandy.pdf)
 ### Flink
 1. [Flink 2018 Flink Forward](https://github.com/flink-china/flink-forward-china-2018)
 2. [Flink 应用升级和状态](https://ci.apache.org/projects/flink/flink-docs-stable/ops/upgrading.html)
-3. [Candy-lamport算法](https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Fchandy.pdf)
-4. [追源索骥：透过源码看懂Flink核心框架的执行流程 ](https://cloud.tencent.com/developer/article/1172583)
-5. [Flink Job解析](https://blog.csdn.net/qq_21653785/article/details/79510140)
+3. [追源索骥：透过源码看懂Flink核心框架的执行流程 ](https://cloud.tencent.com/developer/article/1172583)
+4. [Flink Job解析](https://blog.csdn.net/qq_21653785/article/details/79510140)
+5. [Flink原理与实现：详解Flink中的状态管理](https://yq.aliyun.com/articles/225623)
+### Flink TaskManager
+1. [TaskManager 基本组件](http://chenyuzhao.me/2017/02/09/taskmanager%E5%9F%BA%E6%9C%AC%E7%BB%84%E4%BB%B6/)
