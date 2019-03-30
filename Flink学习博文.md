@@ -15,6 +15,7 @@
 6. [Flink增量checkpoint](https://flink.apache.org/features/2018/01/30/incremental-checkpointing.html)
 7. [Flink CheckPoint协调器](https://www.cnblogs.com/zaizhoumo/p/9236491.html)
 8. [Candy-lamport算法](https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Fchandy.pdf)
+9. [Flink 增量CheckPoint](https://www.liangzl.com/get-article-detail-28732.html)
 ### Flink
 1. [Flink 2018 Flink Forward](https://github.com/flink-china/flink-forward-china-2018)
 2. [Flink 应用升级和状态](https://ci.apache.org/projects/flink/flink-docs-stable/ops/upgrading.html)
@@ -23,3 +24,5 @@
 5. [Flink原理与实现：详解Flink中的状态管理](https://yq.aliyun.com/articles/225623)
 ### Flink TaskManager
 1. [TaskManager 基本组件](http://chenyuzhao.me/2017/02/09/taskmanager%E5%9F%BA%E6%9C%AC%E7%BB%84%E4%BB%B6/)
+### Flink State
+1. [Flink 状态实现](https://blog.csdn.net/xorxos/article/details/80877266)
