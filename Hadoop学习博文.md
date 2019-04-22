@@ -7,5 +7,4 @@
 1. [Hadoop Shuffle](https://langyu.iteye.com/blog/992916)
 
 ### Hadoop HDFS HA
-
 1.[SecondaryNameNode和CheckPoint差异](https://data-flair.training/forums/topic/what-is-differen)

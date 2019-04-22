@@ -26,3 +26,7 @@
 1. [TaskManager 基本组件](http://chenyuzhao.me/2017/02/09/taskmanager%E5%9F%BA%E6%9C%AC%E7%BB%84%E4%BB%B6/)
 ### Flink State
 1. [Flink 状态实现](https://blog.csdn.net/xorxos/article/details/80877266)
+2. [深入理解Flink中状态实现](https://www.jianshu.com/p/e047ca387589)
+
+### Flink Graph
+1. [Flink源码解读系列3——JobGraph的构建](https://blog.csdn.net/super_wj0820/article/details/81142710)
