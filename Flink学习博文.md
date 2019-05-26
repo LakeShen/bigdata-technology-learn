@@ -3,9 +3,11 @@
 2. [Flink SQL实现](https://blog.csdn.net/pelick/article/details/51613931)
 3. [Flink sql介绍](https://blog.csdn.net/pelick/article/details/51613931)
 4. [Flink Table API和SQL的关系](https://www.infoq.cn/article/flink-api-table-api-and-sql)
+5. [Flink Table & SQL API--动态表与Redo和Undo](https://blog.csdn.net/lmalds/article/details/71123592)
 ### Flink On Yarn
 14. [Flink On Yarn](http://www.pianshen.com/article/184853770/)
 15. [Flink On Yarn Really](https://www.cnblogs.com/dongxiao-yang/p/9403427.html)
+3. [Flink1.6 - flink on yarn分布式部署架构](https://zhouhai02.com/post/flink-internals/flink1.6-flip6-flink-on-yarn-arch/)
 ### Flink CheckPoint
 1. [Flink SavePoints](https://ci.apache.org/projects/flink/flink-docs-stable/ops/state/savepoints.html)
 2. [flink CheckPoint](https://ci.apache.org/projects/flink/flink-docs-release-1.7/internals/stream_checkpointing.html)
