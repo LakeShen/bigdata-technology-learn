@@ -26,3 +26,7 @@
 
 ### HBase
 1. [HBase写性能优化](http://hbasefly.com/2016/12/10/hbase-parctice-write/)
+
+
+### 时序数据库(OpenTSDB)
+1. [OpenTSDB原理系列：数据表设计](http://www.nosqlnotes.com/technotes/opentsdb-tabledesign/)
