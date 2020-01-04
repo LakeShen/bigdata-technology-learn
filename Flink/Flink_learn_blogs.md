@@ -4,7 +4,9 @@
 2. [玉兆的博客](http://chenyuzhao.me/)，据说是 Calcite 的 Commitor
 3. [The data Artisans Blog](https://www.ververica.com/blog)
 4. [vinoYang Flink博客](https://blog.csdn.net/yanghua_kobe/column/info/apacheflink),博客讲解的非常细
-5. [官方文档](https://flink.apache.org/)
+5. [金竹大佬 Flink 漫谈系列](https://yq.aliyun.com/articles/679659)，Flink PMC，非常值得一看
+6. [官方文档](https://flink.apache.org/)
+
 
 
 
@@ -19,6 +21,7 @@
 15. [Flink On Yarn Really](https://www.cnblogs.com/dongxiao-yang/p/9403427.html)
 3. [Flink1.6 - flink on yarn分布式部署架构](https://zhouhai02.com/post/flink-internals/flink1.6-flip6-flink-on-yarn-arch/)
 4. [Flink on yarn应用部署](https://mp.weixin.qq.com/s?spm=a2c4e.11153987.0.0.5fcd59a4tdKlEC&__biz=Mzg3NjAwNzM4MA==&mid=2247483718&idx=1&sn=600358cceeddf23f2e73e5b37afeb6b7&chksm=cf399bfdf84e12eb40a26fb45528bcf29a8298fbc490954c34efd88eda0dc4dcff862be85339&scene=4&subscene=126&ascene=0&devicetype=android-25&version=27000338&nettype=3gnet&abtest_cookie=BQABAAoACwASABMAFAAFACOXHgBamR4Am5keAMaZHgDTmR4AAAA%3D%E2%8C%A9=zh_CN&pass_ticket=UIm3jEsgAQGHITNhnnGM4cAXL4CdbSRi7%2B7S6lqO%2FMe0vpDmKkaGkEyp%2BB%2B3HvhB&wx_header=1)
+5。 [Flink源码阅读（一）——Flink on Yarn的Per-job模式源码简析<五星>](http://www.mamicode.com/info-detail-2808033.html)
 ### Flink CheckPoint
 1. [Flink SavePoints](https://ci.apache.org/projects/flink/flink-docs-stable/ops/state/savepoints.html)
 2. [flink CheckPoint](https://ci.apache.org/projects/flink/flink-docs-release-1.7/internals/stream_checkpointing.html)
